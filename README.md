@@ -52,4 +52,17 @@
 #####
 * When reviewing the T-Test results for Lot 3 it shows that the results are statistically different from the population mean, the p-value is low enough at .04168 for us to reject the null hypothesis. This means that AutoRUs may want to reject the parts from Lot 3 or perform a deeper inspection to see what is happening at the Lot to create such discrepancies in their products. 
 
+#### Study Design: MechaCar vs. Competition
 
+##### The goal of this analysis is to have the MechaCar perform better than their competitors in the marketplace. When thinking about what drives consumers to purchase a new car there are many factors that come into play: cost, fuel efficiency, horse power, maintenance costs, saftey ratings and also the reliability. I know that when I am looking to purchase such a high ticket item I want to make sure it is going to take me to all of the places I need to go in an efficient and reliable way. In addition to the variables we looked at in the analysis I think that we should perform more tests to look at improving the fuel efficiency to the MechaCar and ensuring that the car performs well in different weather conditions - this is especially important to me as I am located in Michigan so seeing all 4 seasons and having a car that can perform well in each one is very important. 
+
+#### Metrics to Test 
+#### The data will need to meet the following metrics:
+* Large data samples - this will make sure that we are going to be able to accurately 
+
+
+In your description, address the following questions:
+What metric or metrics are you going to test?
+What is the null hypothesis or alternative hypothesis?
+What statistical test would you use to test the hypothesis? And why?
+What data is needed to run the statistical test?
