@@ -57,8 +57,15 @@
 ##### The goal of this analysis is to have the MechaCar perform better than their competitors in the marketplace. When thinking about what drives consumers to purchase a new car there are many factors that come into play: cost, fuel efficiency, horse power, maintenance costs, saftey ratings and also the reliability. I know that when I am looking to purchase such a high ticket item I want to make sure it is going to take me to all of the places I need to go in an efficient and reliable way. In addition to the variables we looked at in the analysis I think that we should perform more tests to look at improving the fuel efficiency to the MechaCar and ensuring that the car performs well in different weather conditions - this is especially important to me as I am located in Michigan so seeing all 4 seasons and having a car that can perform well in each one is very important. 
 
 #### Metrics to Test 
-#### The data will need to meet the following metrics:
-* Large data samples - this will make sure that we are going to be able to accurately 
+#### For us to analyze the MechaCar against the competition we should measure the following metrics:
+* Cost
+* Fuel Efficiency
+* Performance 
+
+#### Null Hypothesis or Alternative Hypothesis 
+
+##### Cost
+##### Null Hypothesis: 
 
 
 In your description, address the following questions:
