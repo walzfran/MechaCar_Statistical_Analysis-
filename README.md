@@ -60,16 +60,25 @@
 #### For us to analyze the MechaCar against the competition we should measure the following metrics:
 * Cost
 * Fuel Efficiency
-* Performance 
+* Performance Rating
 
 #### Null Hypothesis or Alternative Hypothesis 
 
 ##### Cost
-##### Null Hypothesis: 
+##### Null Hypothesis: The mean of cost of all vehicles in the sample set are equal
+##### Alternative Hypothesis: At least one of the vehilves in the sample set has a different mean of cost than the other vehicles 
 
+##### Fuel Efficiency
+##### Null Hypothesis: The mean of fuel efficiency of all vehicles in the sample set are equal
+##### Alternative Hypothesis: At least one of the vehilves in the sample set has a different mean of fuel efficiency than the other vehicles 
 
-In your description, address the following questions:
-What metric or metrics are you going to test?
-What is the null hypothesis or alternative hypothesis?
-What statistical test would you use to test the hypothesis? And why?
-What data is needed to run the statistical test?
+##### Performance Rating
+##### Null Hypothesis: The mean of performance rating of all vehicles in the sample set are equal
+##### Alternative Hypothesis: At least one of the vehilves in the sample set has a different mean of performance rating than the other vehicles 
+
+#### Statistical Test 
+##### For cost I would use a one-way ANOVA test, this will test the mean for MechaCar against competitors.For fuel efficiency I would use a two-way ANOVA test using city and highway as the variables for MPG on the MechaCar and other competitors cars. And for the performance rating I would use another one-way ANOVA test to test the mean against the MechaCar and the competitors. 
+
+#### Data Needed 
+##### For all three of the metrics you would want to have data collected on cost, fuel efficiency and performance ratings. Ideally you would have data collected from at least 50 vehicles for the MechaCar and 4 other competitors in the same car class. This would lead to needing data on at least 250 cars so that you have a wide enough range of information to complete these tests with accuracy and not just coincidence. 
+
